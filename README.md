@@ -1,4 +1,4 @@
-# 🏦 Bank (Extension_1) 💼
+# 🏦 Bank Manangment System 💼
 
 > **A simple console-based application to manage client data with file storage and intuitive operations. 🛠️**
 
@@ -24,7 +24,7 @@ This C++ project simulates a **Bank Management System** 🏦 that allows the use
 - 📊 **View Total Balances**: Show overall bank holdings.
 
 ### 🔒 Data Security
-- **Persistent Storage**: Client data is securely stored in `Client.txt` for future use.
+- **Persistent Storage**: Client data is securely stored in `Clients.txt` for future use.
 - **Validation**: Enforce unique account numbers and accurate data entry.
 - **Simple File-Based Database**: Efficiently manage all client and transaction data.
 
